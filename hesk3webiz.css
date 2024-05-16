@@ -1,0 +1,4 @@
+/*replies extended past box bounds 05/16/2024*/
+.note__description p {
+	word-wrap: break-word;
+}
